@@ -1,7 +1,7 @@
 Installation
 ============
 
-**my-package** supports Python >= 3.8.
+**my-package** supports Python >= 3.9.
 
 ## Installing with `pip`
 
