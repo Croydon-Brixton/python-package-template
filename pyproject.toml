@@ -15,9 +15,9 @@ classifiers = [
     "Topic :: Scientific/Engineering :: Artificial Intelligence",
 ]
 authors = [
-    {name = "Allen Institute for Artificial Intelligence", email = "contact@allenai.org"}
+    {name = "Simon Mathis", email = "simon.mathis@cl.cam.ac.uk"}
 ]
-requires-python = ">=3.8"
+requires-python = ">=3.9"
 dependencies = [
   # Add your own dependencies here
 ]
